@@ -1,0 +1,90 @@
+body
+{
+  color: #40514e;
+margin: 0;
+text-align: center;
+height: 100%;
+font-family: sacramento;
+font-size: 40px;
+}
+h1
+{
+  margin: 0;
+  font-size: 90px;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-family: 'Ma Shan Zheng', cursive ;
+      color: #66BFBF;
+      font-weight: normal;
+}
+h3{
+  font-family: serif;
+}
+h4{
+  font-family: serif;
+  color: #11999e;
+}
+.skill-row1
+{
+  text-align:left;
+  padding: 20px auto 20px auto;
+}
+.skill-row2
+{
+  padding: 20px auto 20px auto;
+  text-align:right;
+}
+
+.code-img{
+  margin-right: 25px;
+  text-align: left;
+float: left;
+clear: left;
+height: 50%;
+width: 15%;
+
+}
+.chilli-img{
+text-align: right;
+  float: right;
+  height: 50%;
+  width: 15%;
+}
+
+.profile{
+  color: #40514e;
+}
+.contact-me{
+  margin-top: 50px;
+}
+.top-container
+{
+
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  position: relative;
+  /*! height: 100%; */
+}
+
+.cloud1
+{
+/*! right: 50; */
+
+position: absolute;
+top: 182px;
+left: 368px;
+}
+.cloud2
+{
+  position: absolute;
+top: 171px;
+left: 1200px;
+
+
+}
+.bottom-container{
+  color: #11999e;
+  background-color: #66bfbf;
+}
